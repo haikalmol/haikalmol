@@ -2,7 +2,7 @@
  Hi, I’m Kal</h1>
 <h2 align="center">
 <img align="center" src="icons/programming-monitor-svgrepo-com.svg" height="90" width="90"/><br>
-Junior Full Stack Developer </h2>
+Full Stack Developer </h2>
 
   <h3>About me</h3>
 
