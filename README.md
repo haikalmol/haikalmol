@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/haikal-fairuzi-maulana-4227ab213/">
   <img align="left" alt="Haikal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://dribbble.com/Karl1623">
-  <img align="left" alt="Haikal's Dribbble" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/dribbbel.svg" />
-</a>
 
 <img src="https://komarev.com/ghpvc/?username=haikalmol&color=blue&style=flat-square" align="left" />
 
