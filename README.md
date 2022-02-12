@@ -1,4 +1,4 @@
-# Hi there, I'm Ezar 👋
+# Hi there, I'm Haikal 👋
 
 ## I'm a Student, UI/UX Designer, and Developer 💻
 
