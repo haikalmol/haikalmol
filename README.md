@@ -1,49 +1,34 @@
-<h1 align="center">
- Hi, I’m Kal</h1>
-<h2 align="center">
-<img align="center" src="icons/programming-monitor-svgrepo-com.svg" height="90" width="90"/><br>
-Full Stack Developer </h2>
+# Hi there, I'm Ezar 👋
 
-  <h3>About me</h3>
+## I'm a Student, UI/UX Designer, and Developer 💻
 
-- I love creating new websites
-- I’m currently learning JavaScript and React 
-- My main focus is to be full stack developer
-- I'm willing to learn the Typescript soon !
+- 🎓 I like to learn anything
+- 👯 I’m looking to collaborate with other content creators
+- 🎯 Goals: Make all wishes come true
 
-<h3>Technologies:</h3>
-<p>
-<img src="./icons/html-5-svgrepo-com.svg" alt="html" width="60" height="60" style="margin-right:.5rem"/>
-<img src="./icons/css3-logo-svgrepo-com.svg" alt="css3" width="60" height="60" style="margin-right:.5rem"/>
-<img src="./icons/javascript-svgrepo-com.svg" alt="javascript" width="60" height="60" style="margin-right:.5rem"/>
-<img src="./icons/sass-svgrepo-com.svg" alt="sass" width="60" height="60" style="margin-right:.5rem"/>
-<img src="./icons/bootstrap-svgrepo-com.svg" alt="bootstrap" width="60" height="60" style="margin-right:.5rem"/>
-</p>
-<h3>Tools: </h3>
-<p>
-<img src="./icons/vscode-svgrepo-com.svg" alt="vscode" width="60" height="60" style="margin-right:.5rem"/>
-<img src="./icons/terminal-svgrepo-com.svg" alt="terminal" width="60" height="60" style="margin-right:.5rem"/>
-<img src="./icons/git-svgrepo-com.svg" alt="gitbash" width="60" height="60" style="margin-right:.5rem"/>
-<img src="./icons/npm-svgrepo-com%20(1).svg" alt="npm" width="60" height="60" style="margin-right:.5rem"/>
+### Connect with me:
 
-</p>
-<h3>Stay In Touch 👋</h3>
-<p>
-<a href="https://www.linkedin.com/in/haikal-fairuzi-maulana-4227ab213/" target="_blank"><img align="center" src="icons/linkedin-svgrepo-com.svg" alt="me in linkedin" height="40" width="40" style="margin-right:1rem"/></a>
-<a href = "mailto:karl.391.east.kn@gmail.com" target="_blank"><img align="center" src="icons/google-gmail-svgrepo-com.svg" alt="gmail" height="40" width="40"/></a>
-</p>
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Karl1623)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haikalfairuzimaulana_)
 
-<!--
-**mounir-m4/mounir-m4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=ezarsatria12&show_icons=true&theme=tokyonight" /> 
 
-Here are some ideas to get you started:
+### Languages and Tools:
+[![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezarsatria12&layout=compact&theme=tokyonight" />
+
+
+[Instagram]: https://www.instagram.com/haikalfairuzimaulana_
+[Dribbble]: https://dribbble.com/Karl1623
+
