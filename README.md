@@ -42,7 +42,7 @@ number one.
 📊 **Quote Of The Day is:**
 <!--START_SECTION:waka-->
 ```text
-Just being lazy in clever way.
+No Bug No Life.
 ```
 <!--END_SECTION:waka-->
 
