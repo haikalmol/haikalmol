@@ -23,7 +23,7 @@ number one.
   <img align="right" style="margin-left: 10px" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="450" height="300" />
 
 
-- 💬 Ask me about anything,Let we discuss together!
+- 💬 Ask me about anything, Let we discuss together!
 - 📫 Reach me at <i>karl.391.east.kn@gmail.com</i>
 
 **Languages and Tools:**  
