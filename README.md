@@ -46,6 +46,8 @@ No Bug No Life.
 ```
 <!--END_SECTION:waka-->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
 📈 My GitHub Stats
 
 <div style="display: inline-flex;margin-top: 10px;justify-content: space-evenly">
