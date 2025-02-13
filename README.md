@@ -2,12 +2,7 @@
 <a href="https://www.instagram.com/haikalfairuzimaulana_/">
   <img align="left" alt="Haikal's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
-<a href="https://twitter.com/Annaa1623">
-  <img align="left" alt="Haikal's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/haikal-fairuzi-maulana-4227ab213/">
-  <img align="left" alt="Haikal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 <img src="https://komarev.com/ghpvc/?username=haikalmol&color=blue&style=flat-square" align="left" />
 
