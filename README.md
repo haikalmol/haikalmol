@@ -1,6 +1,6 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/haikalfairuzimaulana_/">
-  <img align="left" alt="Haikal's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
+  <img align="left" alt="Haikal's Instagram" width="22px" src="https://www.flaticon.com/free-icon/instagram-logo_87390" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=haikalmol&color=blue&style=flat-square" align="left" />
