@@ -70,19 +70,3 @@ No Bug No Life.
 <a href="https://instagram.com/haikalfairuzimaulana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haikalfairuzimaulana_" height="30" width="40" /></a>
 <a href="https://medium.com/@karl.391.east.kn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@karl.391.east.kn" height="30" width="40" /></a>
 </p>
-
-Figma Portofolio Website : https://www.figma.com/design/kUbbmwH0AZ7P2x6Kb3yViu/Portofolio-web?node-id=0-1&t=RTRIF6iZ4zAnyBvG-1
-
-## 📷 Images of the website
-
-### Home Page
-  <img  align="center" style="margin-left: 100px" src="./images/preview/home.png" width="694" height="852">
-
-
-### Projects Page
-
-<img  align="center" style="margin-right:100px" src="./images/preview/aboutus.png"/>
-
-### Contact Page
-
-<img  align="center" style="margin-right:100px" src="./images/preview/services.png"/>
