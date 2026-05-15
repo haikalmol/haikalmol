@@ -1,4 +1,9 @@
 <p align="center">
+<!--   <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106224845001330728/neural.gif" height="350px"/> -->
+  <img src="https://res.cloudinary.com/dqljtchgs/image/upload/f_auto,q_auto/v1/github-thingies/particles_g3wsuu" height="350px"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/DenverCoder1">
    
 </p>
