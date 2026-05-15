@@ -60,7 +60,7 @@ Hi, I'm [Haikal](https://www.linkedin.com/in/haikal-fairuzi-maulana-4227ab213/),
 
 
 - 💬 Ask me about anything, Let we discuss together!
-- 📫 Reach me at <i>karl.391.east.kn@gmail.com</i>
+- 📫 Reach me at <i>haikalfairuzim@gmail.com</i>
 
 **Languages and Tools:**  
 
